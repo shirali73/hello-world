@@ -1,7 +1,17 @@
 [About](url)
 [Blog](url)
 
+<!--- 
+1. 
+2. Enable ruby script support. 
+3. Enable text coloring Ex. ERB script Example: <span style="color:blue">some *blue* text</span>
+4. Check on-site space requirement
+5. 
+-->
+
 ### Cloud Migration:
+
+
 
 Market anlysis shows more and more companies migrating their
 data to Amazon/Azure Cloud. We help clients achieve their goal seamlessly. 
