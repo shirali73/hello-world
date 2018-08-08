@@ -1,0 +1,3 @@
+If you have a lot of pages, you can organize those pages into subfolders. 
+The same subfolders that are used to group your pages in our project’s source
+will exist in the _site folder when your site builds.
